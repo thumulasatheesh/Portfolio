@@ -13,8 +13,8 @@
 <!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Satheesh_Reddy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satheesh-reddy-2074b76)
 [![GitHub](https://img.shields.io/badge/GitHub-thumulasatheesh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thumulasatheesh)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-7C3AED?style=for-the-badge&logo=firefox&logoColor=white)](YOUR_PORTFOLIO_URL)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-7C3AED?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/thumulasatheesh/thumulasatheesh)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tsrreddy90@gmail.com)
 
 <br/>
 
